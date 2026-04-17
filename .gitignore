@@ -1,0 +1,25 @@
+# Carpetas
+__pycache__/
+venv/
+.venv/
+output/
+data/shiny/
+data/catálogos/socket_in
+data/FuentesVías
+data/informes_puntuales
+py3/
+data/
+
+
+
+
+# Ficheros
+*.xlsx
+prueba.ipynb
+
+*test*
+*.html
+*_rbi.py
+*.json
+*.xml
+gct

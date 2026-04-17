@@ -1,0 +1,38 @@
+Collecting kaleido
+  Using cached kaleido-1.2.0-py3-none-any.whl.metadata (5.6 kB)
+Collecting choreographer>=1.1.1 (from kaleido)
+  Using cached choreographer-1.2.1-py3-none-any.whl.metadata (6.8 kB)
+Requirement already satisfied: logistro>=1.0.8 in c:\users\xiangzhou.zhang\documents\codigo\logprocess\venv\lib\site-packages (from kaleido) (1.1.0)
+Requirement already satisfied: orjson>=3.10.15 in c:\users\xiangzhou.zhang\documents\codigo\logprocess\venv\lib\site-packages (from kaleido) (3.10.16)
+Requirement already satisfied: packaging in c:\users\xiangzhou.zhang\documents\codigo\logprocess\venv\lib\site-packages (from kaleido) (25.0)
+Collecting pytest-timeout>=2.4.0 (from kaleido)
+  Using cached pytest_timeout-2.4.0-py3-none-any.whl.metadata (20 kB)
+Collecting logistro>=1.0.8 (from kaleido)
+  Using cached logistro-2.0.1-py3-none-any.whl.metadata (3.9 kB)
+Requirement already satisfied: simplejson>=3.19.3 in c:\users\xiangzhou.zhang\documents\codigo\logprocess\venv\lib\site-packages (from choreographer>=1.1.1->kaleido) (3.20.1)
+Collecting pytest>=7.0.0 (from pytest-timeout>=2.4.0->kaleido)
+  Using cached pytest-9.0.2-py3-none-any.whl.metadata (7.6 kB)
+Requirement already satisfied: colorama>=0.4 in c:\users\xiangzhou.zhang\documents\codigo\logprocess\venv\lib\site-packages (from pytest>=7.0.0->pytest-timeout>=2.4.0->kaleido) (0.4.6)
+Collecting iniconfig>=1.0.1 (from pytest>=7.0.0->pytest-timeout>=2.4.0->kaleido)
+  Using cached iniconfig-2.3.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting pluggy<2,>=1.5 (from pytest>=7.0.0->pytest-timeout>=2.4.0->kaleido)
+  Using cached pluggy-1.6.0-py3-none-any.whl.metadata (4.8 kB)
+Requirement already satisfied: pygments>=2.7.2 in c:\users\xiangzhou.zhang\documents\codigo\logprocess\venv\lib\site-packages (from pytest>=7.0.0->pytest-timeout>=2.4.0->kaleido) (2.19.1)
+Using cached kaleido-1.2.0-py3-none-any.whl (68 kB)
+Using cached choreographer-1.2.1-py3-none-any.whl (49 kB)
+Using cached logistro-2.0.1-py3-none-any.whl (8.6 kB)
+Using cached pytest_timeout-2.4.0-py3-none-any.whl (14 kB)
+Using cached pytest-9.0.2-py3-none-any.whl (374 kB)
+Using cached pluggy-1.6.0-py3-none-any.whl (20 kB)
+Using cached iniconfig-2.3.0-py3-none-any.whl (7.5 kB)
+Installing collected packages: pluggy, logistro, iniconfig, pytest, choreographer, pytest-timeout, kaleido
+  Attempting uninstall: logistro
+    Found existing installation: logistro 1.1.0
+    Uninstalling logistro-1.1.0:
+      Successfully uninstalled logistro-1.1.0
+   ----- ---------------------------------- 1/7 [logistro]   ----------------- ---------------------- 3/7 [pytest]   ----------------- ---------------------- 3/7 [pytest]   ----------------- ---------------------- 3/7 [pytest]   ----------------- ---------------------- 3/7 [pytest]   ----------------- ---------------------- 3/7 [pytest]   ----------------- ---------------------- 3/7 [pytest]  Attempting uninstall: choreographer
+   ----------------- ---------------------- 3/7 [pytest]   ---------------------- ----------------- 4/7 [choreographer]    Found existing installation: choreographer 1.0.9
+   ---------------------- ----------------- 4/7 [choreographer]    Uninstalling choreographer-1.0.9:
+   ---------------------- ----------------- 4/7 [choreographer]      Successfully uninstalled choreographer-1.0.9
+   ---------------------- ----------------- 4/7 [choreographer]   ---------------------- ----------------- 4/7 [choreographer]   ---------------------- ----------------- 4/7 [choreographer]   ---------------------- ----------------- 4/7 [choreographer]   ---------------------------------- ----- 6/7 [kaleido]   ---------------------------------- ----- 6/7 [kaleido]   ---------------------------------- ----- 6/7 [kaleido]   ---------------------------------------- 7/7 [kaleido]
+Successfully installed choreographer-1.2.1 iniconfig-2.3.0 kaleido-1.2.0 logistro-2.0.1 pluggy-1.6.0 pytest-9.0.2 pytest-timeout-2.4.0
