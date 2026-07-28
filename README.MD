@@ -1,14 +1,14 @@
 # Documentación
 ## ENTORNO
 crear un fichero .env dentro de proyecto con las siguientes variables:
-CLIENT_ID: cliente ID de sharepoint
-TENANT_ID tenant_id de sharepoint
-CLIENT_SECRET: contraseña de api de sharepoint.
-site_id="adif365.sharepoint.com,b975d513-b31f-42b3-8167-bb2219f603f3,39767b5f-6e4e-4154-83e7-8fce45eb6e69"
-GRAYLOG_URL="http://silog.solvan.comun.adif"
-GRAYLOG_USER
-GRAYLOG_PASSWORD
-user-key: use-key de las apis de MSE
+-     -CLIENT_ID: cliente ID de sharepoint
+-     -TENANT_ID tenant_id de sharepoint
+-     -CLIENT_SECRET: contraseña de api de sharepoint.
+-     -site_id="adif365.sharepoint.com,b975d513-b31f-42b3-8167-bb2219f603f3,39767b5f-6e4e-4154-83e7-8fce45eb6e69"
+-     -GRAYLOG_URL="http://silog.solvan.comun.adif"
+-     -GRAYLOG_USER
+-     -GRAYLOG_PASSWORD
+-      -user-key: use-key de los APIs de MSE
 ## Scripts
 
 
@@ -68,10 +68,10 @@ python Sitra.py   --fecha --tipo  --NTecnico – ruta
 #### GCT.py
 Scrypt para sacar las circulaciones planificadas de un día concreto. el límite es de dos días anteriores y posterior
  Python GCT.py --fecha –guarda /  Python GCT.py --fecha  -- ntécnico
-    -- fecha(requerido): YYYY-MM-DD
-    -- guarda, opción para guardar las circulaciones de día concreta
-    -- NTecnico(opcional): circulación concreta.
-    -- rotacion opcion para imprimir la rotación de una circulación de una fecha concreta.
+ -    - fecha(requerido): YYYY-MM-DD
+ -    - guarda, opción para guardar las circulaciones de día concreta
+ -    - NTecnico(opcional): circulación concreta.
+ -    - rotacion opcion para imprimir la rotación de una circulación de una fecha concreta.
 [No implementado]:
 •	Distribuciones temporales, desviación
 •	Incidencias
