@@ -1,0 +1,64 @@
+Delegación;         Nombre;                 Catálogo;           MIE;SOCKETIN
+NOROESTE;           León;                   NOO2;               /opt/appl/logs/mse/mie_mse_objectsleon.log;
+NOROESTE;           Oviedo;                 NOO1;               /opt/appl/logs/mse/mie_mse_objectsoviedo.log;
+NOROESTE;           Ourense;                OUR1;               /opt/appl/logs/mse/mie_mse_objectsorense.log;/opt/appl/logs/mse/osa/mse-client-mie/mse-client-mie-osa-socket_in.log
+NORTE;              Nor1;                   NOR1;               /opt/appl/logs/mse/mie_mse_objectsnor1.log;/opt/appl/logs/mse/nor1/mse-client-mie/mse-client-mie-nor1-socket_in.log
+NORTE;              Nor2;                   NOR2;               /opt/appl/logs/mse/mie_mse_objectsnor2.log;/opt/appl/logs/mse/nor2/mse-client-mie/mse-client-mie-nor2-socket_in.log
+NORTE;              Miranda;                MIR1;               /opt/appl/logs/mse/mie_mse_objectsmiranda.log;/opt/appl/logs/mse/mac/mir/mse-client-mie/mse-client-mie-mir-socket_in.log
+NORTE;              Santander;              SAN1;               /opt/appl/logs/mse/mie_mse_objectssantander.log;/opt/appl/logs/mse/san/mse-client-mie/mse-client-mie-san-socket_in.log
+NORTE;              Bilbao;                 BIL1;               /opt/appl/logs/mse/mie_mse_objectsbilbao.log;/opt/appl/logs/mse/bia/mse-client-mie/mse-client-mie-bia-socket_in.log
+NORESTE;            Barcelona;              NOE;                /opt/appl/logs/mse/mie_mse_objectssiemensbarcelona.log;/opt/appl/logs/mse/bcn/mse-client-mie/mse-client-mie-bcn-socket_in.log
+NORESTE;            Zaragoza;               ZAR1;               /opt/appl/logs/mse/mie_mse_objectszaragoza.log;/opt/appl/logs/mse/zep/mse-client-mie/mse-client-mie-zep-socket_in.log
+NORESTE;            Zaragoza;               ZARAV;              /opt/appl/logs/mse/mie_mse_objectszaragozaav.log;/opt/appl/logs/mse/zar/mse-client-mie/mse-client-mie-zar-socket_in.log
+ESTE;               Valencia;               EST1;               /opt/appl/logs/mse/mie_mse_objectsvalencia.log;/opt/appl/logs/mse/est1/mse-client-mie/mse-client-mie-est1-socket_in.log
+ESTE;               Valencia;               VAL1;               /opt/appl/logs/mse/mie_mse_objectsvalenciacentronorte.log;
+#ESTE;              Albacete-Murcia;        ;                   /opt/appl/logs/mse/amm/mse-jctc/mse-jctc-amm-jms_out.log;/opt/appl/logs/mse/amm/mse-client-mie/mse-client-mie-amm-socket_in.log
+SUR;                Córdoba;                COR1;               /opt/appl/logs/mse/mie_mse_objectscordoba.log;/opt/appl/logs/mse/cor/mse-client-mie/mse-client-mie-cor-socket_in.log
+SUR;                Granada;                GRA1;               /opt/appl/logs/mse/mie_mse_objectsgranada.log;/opt/appl/logs/mse/gra/mse-client-mie/mse-client-mie-gra-socket_in.log
+SUR;                Málaga;                 MAL1;               /opt/appl/logs/mse/mie_mse_objectsmalaga.log;/opt/appl/logs/mse/mal/mse-client-mie/mse-client-mie-mal-socket_in.log
+SUR;                Sevilla;                SEV1;               /opt/appl/logs/mse/mie_mse_objectssevilla.log;/opt/appl/logs/mse/sev6/mse-client-mie/mse-client-mie-sev6-socket_in.log
+#SUR;               Ronda;                  RON1;               /opt/appl/logs/mse/mie_mse_objectsronda.log;
+SUR;                Antequera;              ANTGRA;             /opt/appl/logs/mse/mie_mse_objectsantequera.log;
+CENTRO;             Chamartín;              CHA;                /opt/appl/logs/mse/mie_mse_objectschamartin.log;/opt/appl/logs/mse/mac/cha/mse-client-mie/mse-client-mie-cha-socket_in.log
+CENTRO;             Chamartín;              CHA1;               /opt/appl/logs/mse/mie_mse_objectschamartin.log;/opt/appl/logs/mse/mac/cha/mse-client-mie/mse-client-mie-cha-socket_in.log
+CENTRO;             Manzanares;             MAN1;               /opt/appl/logs/mse/mie_mse_objectsmanzanares.log;/opt/appl/logs/mse/mac/man/mse-client-mie/mse-client-mie-man-socket_in.log
+#CENTRO;            Atocha;                 MSM1;               /opt/appl/logs/mse/mie_mse_objectsatocha.log;/opt/appl/logs/mse/ato/mse-client-mie/mse-client-mie-ato-socket_in.log
+CENTRO;             LAV3;                   LAV3;               /;
+CENTRO;             LAV4;                   LAV4;               /;
+CENTRO;             LAV6;                   MAVA;               /;
+
+
+#Delegación;         Zona;               CTC;          Catálogo;         MIE;SOCKETIN
+#CENTRO;             ;                   AMM;          ;                 ;
+#CENTRO;             Bilbao;             BIA;          BIL1;             /opt/appl/logs/mse/mie_mse_objectsbilbao.log;/opt/appl/logs/mse/bia/mse-client-mie/mse-client-mie-bia-socket_in.log
+#CENTRO;             León;               LEO;          NOO2;             /opt/appl/logs/mse/mie_mse_objectsleon.log;
+#CENTRO;             Madrid;             MAC;          CHA;              /opt/appl/logs/mse/mie_mse_objectschamartin.log;/opt/appl/logs/mse/mac/cha/mse-client-mie/mse-client-mie-cha-socket_in.log
+#CENTRO;             Manzanares;         MAN;          MAN1;             /opt/appl/logs/mse/mie_mse_objectsmanzanares.log;/opt/appl/logs/mse/mac/man/mse-client-mie/mse-client-mie-man-socket_in.log
+#CENTRO;             San Sebastián;      MIR;          MIR1;             /opt/appl/logs/mse/mie_mse_objectsmiranda.log;/opt/appl/logs/mse/mac/mir/mse-client-mie/mse-client-mie-mir-socket_in.log
+#CENTRO;             ;                   MSE;          MSE;              ;
+#CENTRO;             ;                   MVA;          ;                 ;
+#CENTRO;             Bilbao;             NOR1;         NOR1;             /opt/appl/logs/mse/mie_mse_objectsnor1.log;/opt/appl/logs/mse/nor1/mse-client-mie/mse-client-mie-nor1-socket_in.log
+#CENTRO;             San Sebastián;      NOR2;         NOR2;             /opt/appl/logs/mse/mie_mse_objectsnor2.log;/opt/appl/logs/mse/nor2/mse-client-mie/mse-client-mie-nor2-socket_in.log
+#CENTRO;             Galicia;            ORE;          OUR1;             /opt/appl/logs/mse/mie_mse_objectsorense.log;
+#CENTRO;             ;                   OSA;          ;                 ;
+#CENTRO;             Asturias;           OVI;          NOO1;             /opt/appl/logs/mse/mie_mse_objectsoviedo.log;
+#CENTRO;             Cantabria;          SAN;          SAN1;             /opt/appl/logs/mse/mie_mse_objectssantander.log;/opt/appl/logs/mse/san/mse-client-mie/mse-client-mie-san-socket_in.log
+#CENTRO;             ;                   VLB;          ;                 ;
+#CENTRO;             Zaragoza;           ZAR;          CTC-1130-G0001;   /opt/appl/logs/mse/mie_mse_objectszaragozaav.log;/opt/appl/logs/mse/zar/mse-client-mie/mse-client-mie-zar-socket_in.log
+#ESTE;               Albacete;           ALB;          ;                 ;
+#ESTE;               ;                   AMM;          ;                 /opt/appl/logs/mse/amm/mse-jctc/mse-jctc-amm-jms_out.log;/opt/appl/logs/mse/amm/mse-client-mie/mse-client-mie-amm-socket_in.log
+#ESTE;               Valencia;           EST1;         EST1;             /opt/appl/logs/mse/mie_mse_objectsvalencia.log;/opt/appl/logs/mse/est1/mse-client-mie/mse-client-mie-est1-socket_in.log
+#ESTE;               Valencia;           VFS1;         VAL1;             /opt/appl/logs/mse/mie_mse_objectsvalenciacentronorte.log;
+#NORESTE;            Barcelona;          BCN;          NOE1;             /opt/appl/logs/mse/mie_mse_objectssiemensbarcelona.log;/opt/appl/logs/mse/bcn/mse-client-mie/mse-client-mie-bcn-socket_in.log
+#NORESTE;            Madrid;             MAC;          CHA;              /opt/appl/logs/mse/mie_mse_objectschamartin.log;/opt/appl/logs/mse/mac/cha/mse-client-mie/mse-client-mie-cha-socket_in.log
+#NORESTE;            Zaragoza;           ZAR;          CTC-1130-G0001;   /opt/appl/logs/mse/mie_mse_objectszaragozaav.log;/opt/appl/logs/mse/zar/mse-client-mie/mse-client-mie-zar-socket_in.log
+#NORESTE;            Zaragoza;           ZEP;          ZAR1;             /opt/appl/logs/mse/mie_mse_objectszaragoza.log;/opt/appl/logs/mse/zep/mse-client-mie/mse-client-mie-zep-socket_in.log
+#SUR;                Antequera;          ANT;          ;                 /opt/appl/logs/mse/mie_mse_objectsantequera.log;
+#SUR;                Barcelona;          BCN;          NOE1;             /opt/appl/logs/mse/mie_mse_objectssiemensbarcelona.log;/opt/appl/logs/mse/bcn/mse-client-mie/mse-client-mie-bcn-socket_in.log
+#SUR;                Córdoba;            COR;          COR1;             /opt/appl/logs/mse/mie_mse_objectscordoba.log;/opt/appl/logs/mse/cor/mse-client-mie/mse-client-mie-cor-socket_in.log
+#SUR;                Granada;            GRA;          GRA1;             /opt/appl/logs/mse/mie_mse_objectsgranada.log;/opt/appl/logs/mse/gra/mse-client-mie/mse-client-mie-gra-socket_in.log
+#SUR;                Málaga;             MAL;          MAL1;             /opt/appl/logs/mse/mie_mse_objectsmalaga.log;/opt/appl/logs/mse/mal/mse-client-mie/mse-client-mie-mal-socket_in.log
+#SUR;                Manzanares;         MAN;          MAN1;             /opt/appl/logs/mse/mie_mse_objectsmanzanares.log;/opt/appl/logs/mse/mac/man/mse-client-mie/mse-client-mie-man-socket_in.log
+#SUR;                ;                   MSE;          MSE;              ;
+#SUR;                Sevilla;            SEV6;         SEV1;             /opt/appl/logs/mse/mie_mse_objectssevilla.log;/opt/appl/logs/mse/sev6/mse-client-mie/mse-client-mie-sev6-socket_in.log
+#;                   ;                   ;             ;                 /opt/appl/logs/mse/mie_mse_objectsatocha.log;

@@ -1,0 +1,89 @@
+"Madrid":
+  "revisar":
+    "n":
+      - "75448"
+      - "75449"
+"Valencia": 
+  "C1": 
+    "Valencia - Gandía": 
+      - "76201"
+      - "76203"
+    "Gandía - Valencia": 
+      - "76200"
+      - "76208"
+  "C2": 
+    "Valencia - Moixent": 
+      - "24003"
+      - "24015"
+    "Moixent - Valencia": 
+      - "24006"
+      - "24016"
+  "C3": 
+    "Valencia - Utiel": 
+      - "76602"
+      - "76610"
+    "Utiel - Valencia": 
+      - "76504"
+      - "76510"
+  "C5": 
+    "Valencia - Caudiel": 
+      - "24604"
+      - "24612"
+    "Caudiel - Valencia": 
+      - "24603"
+      - "24611"
+  "C6": 
+    "Valencia - Castellón": 
+      - "76494"
+      - "24302"
+    "Castellón - Valencia": 
+      - "24335"
+      - "24337"
+"San Sebastián": 
+  "C1": 
+    "Irún - Brinkola": 
+      - "32718"
+      - "32720"
+    "Brinkola - Irún": 
+      - "32721"
+      - "32723"
+"Bilbao": 
+  "C1": 
+    "Bilbao - Santurtzi": 
+      - "26133"
+      - "26153"
+    "Santurtzi - Bilbao": 
+      - "26132"
+      - "26158"
+  "C2": 
+    "Bilbao - Muskiz": 
+      - "26027"
+      - "26049"
+    "Muskiz - Bilbao": 
+      - "26028"
+      - "26058"
+  "C3": 
+    "Bilbao - Orduña": 
+      - "26744"
+      - "26758"
+      - "26645"
+    "Orduña - Bilbao": 
+      - "26751"
+      - "26765"
+  "C4 RAM": 
+    "Bilbao - La Calzada": 
+      - "71518"
+      - "71546"
+    "La Calzada - Bilbao": 
+      - "71521"
+      - "71541"
+"Asturias":
+  "C5":
+    "Gijón - Laviana":
+      - "70423"
+"León":
+  "RAM":
+    "Asunción - Guardo":
+      - "71093"
+    "Guardo - Asunción":
+      - "71092"

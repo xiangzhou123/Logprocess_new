@@ -1,0 +1,29 @@
+# Carpetas
+__pycache__/
+venv/
+.venv/
+output/
+data/shiny/
+data/catálogos
+data/FuentesVías
+data/informes_puntuales
+data/Vía Estacionamiento/
+py3/
+otros desarrollos/
+.env
+
+
+
+# Ficheros
+*.csv
+*.xlsx
+prueba.ipynb
+*.ipynb
+
+
+*test*
+*.html
+*_rbi.py
+*.json
+*.xml
+
